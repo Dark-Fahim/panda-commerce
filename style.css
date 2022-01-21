@@ -1,0 +1,24 @@
+.container .card-backpack{
+    height: 290px;
+    width: 290px;
+}
+.backpack-card{
+    height: 590px;
+    width: 360px;
+}
+.btn.common-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.subscribe{
+    height: 300px;
+    margin: 100px 0;
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+h6{
+    color: grey;
+}
